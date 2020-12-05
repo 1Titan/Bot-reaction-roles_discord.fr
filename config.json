@@ -1,0 +1,11 @@
+[
+  {
+    "messageId": "ID_DU_MESSAGE",
+    "channelId": "ID_DU_CHANNEL",
+    "removeReaction": true,
+    "policy": "unique",
+    "emojiRoleMap": {
+      "🎉": ["ID_EMOJI"]
+    }
+  }
+]
